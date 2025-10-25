@@ -1,96 +1,121 @@
-# Nompu_Work_Readiness_EPortfolio
-work readiness training portfolio .
-# 🌟 Work Readiness Digital Portfolio
-**Name:** Nompumelelo Bhebhe  
-**Course:** Work Readiness Programme  
-**Platform:** GitHub | Markdown-based e-Portfolio  
+Digital Portfolio
 
----
+Name: Nompumelelo Bhebhe
+Student Number: 221584455
+Subject: PRP370-1-2S – Project Presentation 3
+Lecturer: P. Inderlal
+GitHub Link: https://github.com/221584455/Nompu_Work_Readiness_EPortfolio/tree/main
 
-## 📌 1. Career Counselling
+Introduction
 
-### 📁 Evidence:
-- I participated in a career guidance session.
-- Career interest test result:
-- ![image](https://github.com/user-attachments/assets/199071d0-e5ed-420c-bea8-bb63c80a8735)
+This digital portfolio demonstrates my development of essential work readiness skills throughout the PRP370-1-2S module. It highlights how I’ve strengthened my professional communication, interview techniques, networking, and workplace etiquette — skills that are critical for succeeding in any IT-related career.
+
+Each section includes evidence and a detailed reflection following the STAR (Situation, Task, Action, Result) method to show how I applied what I learned and how it has contributed to my overall growth as a young professional.
+
+Business Communication
+Evidence
+
+Reflection (STAR Technique)
+
+Situation:
+During the Business Communication section of the module, I was tasked with creating formal business documents such as memos, professional emails, and reports. This exercise simulated real workplace communication where clarity, structure, and professionalism are essential.
+
+Task:
+My goal was to demonstrate an understanding of how to communicate effectively in a formal business environment. I needed to ensure that my writing was professional, concise, and grammatically accurate while maintaining a respectful and engaging tone.
+
+Action:
+I drafted various business documents following standard templates, applied proper email etiquette, and ensured my language matched the tone required for professional correspondence. I reviewed examples provided by my lecturer and used peer feedback to refine my communication style.
+
+Result:
+I became more confident in expressing myself clearly and professionally in writing. I learned how to tailor messages for different audiences, structure emails for impact, and maintain a professional tone even under pressure. This experience has enhanced my written communication — a vital skill in both academic and professional IT environments.
+
+🎙️ Interview Skills
+Evidence
+
+View Evidence on GitHub
+
+Includes mock interview questions, recorded practice sessions, and evaluation notes showcasing preparation for job interviews.
+
+Reflection (STAR Technique)
+
+Situation:
+In preparation for future internship and job interviews, I participated in interview training sessions where I learned the fundamentals of interview preparation and communication.
+
+Task:
+My objective was to learn how to effectively present myself in interviews, demonstrate my knowledge, and confidently communicate my skills, especially in software development and IT.
+
+Action:
+I researched commonly asked interview questions, practiced using the STAR answering method, and recorded my practice sessions to evaluate my tone and body language. I also prepared personalized responses highlighting my academic background, teamwork experience, and problem-solving approach.
+
+Result:
+Through practice and feedback, I gained the confidence to handle different interview scenarios. I learned how to maintain professionalism, speak clearly under pressure, and structure my responses logically. I now feel more prepared to express my value effectively during real-world interviews.
+
+Evidence
+
+View Evidence on GitHub
+
+Includes a video of my mock interview session and lecturer feedback.
+
+Reflection (STAR Technique)
+
+Situation:
+As part of my assessment, I participated in a mock interview conducted by my lecturer to simulate a real interview environment.
+
+Task:
+I needed to demonstrate professionalism, confidence, and readiness by answering questions as if applying for an IT internship position.
+
+Action:
+I dressed professionally, arrived early, and treated the session as a genuine interview. I maintained eye contact, used confident body language, and answered questions using real-life examples from my coursework and projects. I also ensured that my tone remained calm and positive.
+
+Result:
+The feedback I received highlighted my strengths — such as clear articulation and professional posture — and pointed out areas to improve, like expanding on my technical examples. This session significantly improved my self-awareness, allowing me to refine how I present myself and build confidence for future interviews.
+
+Professional Networking
+Evidence
+
+View Evidence on GitHub
+
+Includes my LinkedIn profile and examples of networking activities within the IT field.
+<img width="1299" height="769" alt="image" src="https://github.com/user-attachments/assets/9d6ffe73-0cba-45a3-9d3d-afad4c67df89" />
 
 
+Reflection (STAR Technique)
 
-### 🧠 Reflection (STAR):
-- **S**: I was uncertain about which career aligned with my interests.
-- **T**: I needed to discover a field that would suit my skills and passion.
-- **A**: I took a professional career assessment and attended a group counselling session.
-- **R**: I discovered that I am most aligned with IT and education support, which confirmed my chosen field.
+Situation:
+Networking is essential in the IT industry for learning from others, finding job opportunities, and staying updated with trends. I focused on developing a professional online presence through LinkedIn.
 
----
+Task:
+My task was to create a professional LinkedIn profile that reflects my academic achievements, skills, and career goals while actively engaging with industry professionals.
 
-## 📌 2. Skills and Interests
+Action:
+I created a LinkedIn account, uploaded a professional profile photo, wrote a strong summary about my passion for technology, and added my educational background and projects. I followed IT professionals, joined relevant groups, and connected with classmates and mentors to build my network.
 
-### 📁 Evidence:
-- Skills chart screenshot:
-![image](https://github.com/user-attachments/assets/58731acf-0761-4d29-808d-4b0f06ebf54c)
+Result:
+I now have a professional online presence that represents my skills and career goals accurately. I gained confidence in reaching out to professionals and learned how to maintain connections. Networking also gave me insight into potential career paths and how to approach industry professionals respectfully and effectively.
 
+🏢 Workplace Etiquette
+Evidence
 
-### 🧠 Reflection (STAR):
-- **S**: I wanted to assess the technical and soft skills I had acquired.
-- **T**: I completed a self-assessment and peer evaluation.
-- **A**: I listed and rated my skills, and discussed them in a peer review.
-- **R**: I found that my communication, teamwork, and Java programming skills were strong, while public speaking needed improvement.
+View Evidence on GitHub
 
----
+Includes materials demonstrating my understanding of professional behavior, teamwork, and time management.
 
-## 📌 3. Personality Assessment
+Reflection (STAR Technique)
 
-### 📁 Evidence:
-- Test result screenshot:
-  ![image](https://github.com/user-attachments/assets/df984f7d-c60c-4972-bde6-92bc15160e08)
+Situation:
+In preparation for entering the workplace, I studied workplace etiquette and professionalism, focusing on how to behave in a team environment and communicate appropriately with colleagues and supervisors.
 
+Task:
+I was required to demonstrate knowledge of acceptable professional behavior, punctuality, dress code, teamwork, and conflict resolution in a simulated work environment.
 
-### 🧠 Reflection (STAR):
-- **S**: I was curious about how my personality could impact my career.
-- **T**: I took the MBTI personality test.
-- **A**: I completed the test and reviewed the results with a facilitator.
-- **R**: I understood that my reflective and empathetic traits make me a good fit for roles that involve mentoring or creative problem-solving.
+Action:
+I practiced teamwork during group activities, ensured that I met all deadlines, and participated respectfully in discussions. I also researched workplace ethics, learned how to handle disagreements professionally, and applied good time management techniques to meet goals effectively.
 
----
+Result:
+I developed a clear understanding of what it means to be a professional. I learned that communication, respect, and reliability are key to building trust in the workplace. These lessons have prepared me to enter any organization confidently and work collaboratively in a professional IT setting.
 
-## 📌 4. Create a CV
+🏁 Conclusion
 
-### 📁 Evidence:
-- Screenshot of CV layout:
- ![image](https://github.com/user-attachments/assets/8036e355-c5ef-41bc-9a2e-873fedd3cdbe)
+This portfolio highlights my journey in developing vital professional and personal skills that prepare me for the workplace. Through business communication, interview practice, networking, and workplace etiquette, I have gained the confidence and knowledge to transition from a student to a professional.
 
-
-### 🧠 Reflection (STAR):
-- **S**: I had no professional CV to showcase my experience.
-- **T**: I had to build a CV that highlighted my strengths and projects.
-- **A**: I attended a CV workshop and used a template to draft my CV.
-- **R**: I now have a structured, ATS-friendly CV ready for internship applications.
-
----
-
-## 📌 5. CV Submission
-
-### 📁 Evidence:
-- Proof of CV submission on job portal:
- ![image](https://github.com/user-attachments/assets/a2d07d97-ab4f-455d-854e-ca265471958a)
-
--My Cv 
-![image](https://github.com/user-attachments/assets/ba93f476-808a-4c17-bf10-4eaed3b52906)
-
-### 🧠 Reflection (STAR):
-- **S**: I needed to apply for internships and jobs.
-- **T**: Submit a complete CV to a real company/job platform.
-- **A**: I created a LinkedIn account and uploaded my CV to the company website and Handshake.
-- **R**: My CV was reviewed and I received feedback, which improved my confidence.
-
----
-
-## 🎯 Conclusion
-
-This digital portfolio reflects my growth and readiness for the workplace. From identifying my strengths to developing a professional CV, I have taken key steps toward becoming a prepared, confident job seeker.
-
----
-
-## 📎 GitHub Repository
-[[View Portfolio Repository](https://github.com/your-username/work-readiness-eportfolio)](https://github.com/221584455/Nompu_Work_Readiness_EPortfolio/tree/main)
+I now understand the importance of professionalism, continuous learning, and self-presentation. These experiences have shaped me into a more capable, adaptable, and career-ready individual — ready to take on the challenges and opportunities in the IT industry.
