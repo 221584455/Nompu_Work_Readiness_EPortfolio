@@ -39,6 +39,7 @@ View Evidence on GitHub
 
 Includes mock interview questions, recorded practice sessions, and evaluation notes showcasing preparation for job interviews.
 
+https://github.com/wil-it2025/cv-tutorial-MamakaMelokuhle/blob/78dc9e2833ae55e01e37c4b12af6cc9c157cc2e9/NompumeleloBhebheMockInterview.mp4
 Reflection (STAR Technique)
 
 Situation:
