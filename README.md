@@ -14,6 +14,7 @@ Each section includes evidence and a detailed reflection following the STAR (Sit
 
 Business Communication
 Evidence
+<img width="1790" height="815" alt="image" src="https://github.com/user-attachments/assets/c7c22112-c9b8-48e1-914d-44c9b0d12315" />
 
 Reflection (STAR Technique)
 
@@ -31,6 +32,8 @@ I became more confident in expressing myself clearly and professionally in writi
 
 🎙️ Interview Skills
 Evidence
+<img width="1805" height="824" alt="image" src="https://github.com/user-attachments/assets/7562d5e8-0e6f-4344-9c4e-a4b7a0647042" />
+
 
 View Evidence on GitHub
 
@@ -72,6 +75,8 @@ The feedback I received highlighted my strengths — such as clear articulation 
 
 Professional Networking
 Evidence
+<img width="1790" height="833" alt="image" src="https://github.com/user-attachments/assets/812e49f8-62ad-42e4-9bc0-e0a1f01a6541" />
+
 
 View Evidence on GitHub
 
@@ -95,6 +100,7 @@ I now have a professional online presence that represents my skills and career g
 
 🏢 Workplace Etiquette
 Evidence
+<img width="1800" height="842" alt="image" src="https://github.com/user-attachments/assets/58106c63-6357-4090-ae9f-1e3f41374deb" />
 
 View Evidence on GitHub
 
